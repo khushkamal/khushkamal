@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **khusalsinghparmar@gmail.com** For Collaboration, Projects
 - 🤔 **I’m looking for help with:** Backend optimization, authentication & real-world project structure
 - 💬 **Ask me about:** MERN Stack, JavaScript, React basics, Project collaboration
 - 📫 **How to reach me:** khusalsinghparmar@gmail.com
-- 😄 **Pronouns:** He/Him
+- 😄 **Pronouns:** Khush
 - ⚡ **Fun fact:** Student by day, Developer by night 🌙💻
 
 
