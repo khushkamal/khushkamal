@@ -1,28 +1,57 @@
-# 💫 Hi 👋, I'm KhushKamal Singh
-**A MERN Stack Developer (Student) from India 🇮🇳**
+<!-- Profile README for github.com/khushkamal/khushkamal -->
 
-Email Me 👉 ✉️ **khusalsinghparmar@gmail.com** For Collaboration, Projects or Anything Tech-Related 😊.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:1D4ED8,100:06B6D4&height=190&section=header&text=KhushKamal%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20India&descAlignY=58&descSize=16" alt="KhushKamal Singh — MERN Stack Developer" width="100%" />
+  <p><b>Building practical web experiences and growing one project at a time.</b></p>
+  <p>
+    <a href="mailto:khusalsinghparmar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email KhushKamal" /></a>
+    <a href="https://github.com/khushkamal"><img src="https://img.shields.io/badge/GitHub-View%20profile-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  </p>
+</div>
 
-- 🔭 **I’m currently working on:** MERN Stack based projects (React, Node.js, Express, MongoDB)
-- 🌱 **I’m currently learning:** MERN Stack, REST APIs, JWT Authentication, Git & GitHub
-- 👯 **I’m looking to collaborate on:** Beginner–Intermediate MERN Stack projects & Open Source
-- 🤔 **I’m looking for help with:** Backend optimization, authentication & real-world project structure
-- 💬 **Ask me about:** MERN Stack, JavaScript, React basics, Project collaboration
-- 📫 **How to reach me:** khusalsinghparmar@gmail.com
-- 😄 **Pronouns:** Khush
-- ⚡ **Fun fact:** Student by day, Developer by night 🌙💻
+About Me
+I'm KhushKamal Singh, a student and developer from India 🇮🇳, focused on building with the MERN stack. I enjoy turning ideas into responsive interfaces and learning how to connect them to reliable backend systems.
+- Current focus: React interfaces and full-stack MERN projects
+- Learning: REST API design, JWT authentication, and backend project structure
+- Open to: Beginner-friendly open-source contributions and project collaborations
+- Contact: khusalsinghparmar@gmail.com
+Skills & Technologies
+Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
+Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Tools & Design
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khushkamal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khushkamal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushkamal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently Strengthening
+REST APIs · JWT Authentication · Backend Architecture · Real-world Project Structure
+GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushkamal&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="KhushKamal's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushkamal&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages on GitHub" height="165" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=khushkamal&icon=0&color=0)](https://visitcount.itsvg.in)
+Let's Connect
+Have an idea, a project, or want to collaborate on something web-related? Reach out at khusalsinghparmar@gmail.com.
+<div align="center">
+  <sub>Keep learning. Keep building. Keep shipping. 🚀</sub>
+</div>
